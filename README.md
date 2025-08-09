@@ -1,0 +1,2 @@
+# KafeOtomasyon
+Simple Cafe Automation 
